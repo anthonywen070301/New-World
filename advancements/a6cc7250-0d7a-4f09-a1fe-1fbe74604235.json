@@ -317,7 +317,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2024-06-22 19:32:38 -0500",
-      "cooked_beef": "2024-06-22 18:09:33 -0500"
+      "cooked_beef": "2024-06-22 18:09:33 -0500",
+      "carrot": "2024-06-26 23:33:32 -0500"
     },
     "done": false
   },
@@ -2365,6 +2366,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-06-25 00:10:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-06-26 23:33:22 -0500"
     },
     "done": true
   },
