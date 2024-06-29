@@ -3252,12 +3252,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crafter": {
-    "criteria": {
-      "has_dropper": "2024-06-27 04:26:55 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-06-27 04:18:36 -0500"
@@ -3309,6 +3303,24 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-06-27 04:18:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2024-06-27 04:26:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-06-27 23:51:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-06-27 23:51:25 -0500"
     },
     "done": true
   },
