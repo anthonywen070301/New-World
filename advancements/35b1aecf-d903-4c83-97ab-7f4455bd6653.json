@@ -386,6 +386,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-06-24 23:45:35 -0500",
+      "minecraft:pillager": "2024-06-30 02:54:26 -0500",
       "minecraft:skeleton": "2024-06-18 02:24:07 -0500",
       "minecraft:phantom": "2024-06-22 18:05:51 -0500",
       "minecraft:zombified_piglin": "2024-06-19 17:33:29 -0500",
@@ -401,6 +402,7 @@
       "minecraft:piglin_brute": "2024-06-24 00:10:36 -0500",
       "minecraft:zombie": "2024-06-18 02:17:47 -0500",
       "minecraft:creeper": "2024-06-18 04:35:23 -0500",
+      "minecraft:drowned": "2024-06-30 02:50:10 -0500",
       "minecraft:zombie_villager": "2024-06-22 19:12:21 -0500",
       "minecraft:slime": "2024-06-20 01:37:32 -0500"
     },
@@ -3321,6 +3323,24 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-06-27 23:51:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-06-30 00:23:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-06-30 00:23:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-06-30 02:54:26 -0500"
     },
     "done": true
   },
